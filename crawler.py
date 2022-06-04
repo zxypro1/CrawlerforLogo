@@ -1,4 +1,6 @@
 from bs4 import BeautifulSoup
+from selenium import webdriver
+import time
 from lxml import etree
 import requests
 import re
@@ -25,3 +27,19 @@ class Crawler(object):
 
 if __name__ == '__main__':
     crawler = Crawler()
+    test_url = 'https://lordicon.com/icons/wired/outline?categoryId=3&premium=0'
+    # test_url = 'https://baidu.com'
+    driver = webdriver.Edge()
+    driver.implicitly_wait(10)
+    driver.get(test_url)
+    print(driver.find_element('content').text)
+    driver.close()
+    # r = requests.get(test_url)
+    # html_response = r.text
+    #
+    # soup = BeautifulSoup(html_response, 'html.parser')
+    # print(soup)
+    #
+    # category = soup.find('div')
+    # print(category)
+
