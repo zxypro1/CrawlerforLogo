@@ -38,5 +38,3 @@ class IconSpider(object):
         pic_number = 0
         for index in range(self.json_count):
             
-
-
