@@ -1,16 +1,11 @@
-import requests
-# import tornado
+import os
 
-json_count = 0
-url = 'https://lordicon.com/api/library/icon/3418/download'
-directory = r'C:\icons'
-header = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
-                  'Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30 '
-}
-body = {
-    'type': 'gif'
-}
-img = requests.patch('https://lordicon.com/api/library/icon/3418/download', headers=header, json=body)
+list = []
+for parent, dir, names in os.walk('.\\lordicon'):
+    if parent != '.\lordicon':
+        for name in names:
+            if name.split('.')[-1] == 'svg':
+                list.append(parent + '\\' + name + '\n')
 
-print(img)
+data = open('.//lordicon//data_list.txt', mode='w')
+data.writelines(list)

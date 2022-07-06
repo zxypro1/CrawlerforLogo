@@ -1,0 +1,785 @@
+.\lordicon\3D Objects\1378-3-d.svg
+.\lordicon\3D Objects\1383-sphere.svg
+.\lordicon\Alert\117-bolt.svg
+.\lordicon\Alert\140-help-center.svg
+.\lordicon\Alert\28-info.svg
+.\lordicon\Alert\46-notification-bell.svg
+.\lordicon\Alert\55-error.svg
+.\lordicon\Alert\56-document.svg
+.\lordicon\Alert\57-server.svg
+.\lordicon\Alert\7-alarm.svg
+.\lordicon\Alphabet & Numbers\1141-email.svg
+.\lordicon\Alphabet & Numbers\1284-one-1-key.svg
+.\lordicon\Alphabet & Numbers\1285-two-2-key.svg
+.\lordicon\Alphabet & Numbers\1286-three-3-key.svg
+.\lordicon\Amusement Park\1103-confetti.svg
+.\lordicon\Amusement Park\1108-ferris-wheel.svg
+.\lordicon\Animals\1130-duck.svg
+.\lordicon\Animals\1144-woodpecker.svg
+.\lordicon\Animals\1145-wings.svg
+.\lordicon\Animals\1146-turkey.svg
+.\lordicon\Animals\1148-bee.svg
+.\lordicon\Animals\1153-horse.svg
+.\lordicon\Animals\1154-spider.svg
+.\lordicon\Animals\1160-cat-head.svg
+.\lordicon\Animals\1173-shark.svg
+.\lordicon\Animals\1193-pets.svg
+.\lordicon\Animals\1203-bear.svg
+.\lordicon\Animals\1208-squirrel.svg
+.\lordicon\Animals\1213-snake.svg
+.\lordicon\Animals\1957-maneki-cat.svg
+.\lordicon\Animals\448-paws-animal-morph.svg
+.\lordicon\Animals\453-savings-pig.svg
+.\lordicon\Animated Backgrounds\355-animated-background-6.svg
+.\lordicon\Animated Backgrounds\361-animated-background-12-morph.svg
+.\lordicon\Arrows\159-trending-down.svg
+.\lordicon\Arrows\160-trenging-up.svg
+.\lordicon\Arrows\161-trending-flat.svg
+.\lordicon\Arrows\212-arrow-1-rounded.svg
+.\lordicon\Arrows\213-arrow-2-rounded.svg
+.\lordicon\Arrows\214-arrow-3.svg
+.\lordicon\Arrows\215-arrow-4.svg
+.\lordicon\Arrows\216-arrow-5.svg
+.\lordicon\Arrows\217-arrow-6.svg
+.\lordicon\Arrows\218-arrow-7.svg
+.\lordicon\Arrows\219-arrow-8.svg
+.\lordicon\Arrows\220-arrow-9.svg
+.\lordicon\Arrows\221-arrow-10.svg
+.\lordicon\Arrows\259-share-arrow.svg
+.\lordicon\Arrows\35-edit.svg
+.\lordicon\Arrows\36-expand.svg
+.\lordicon\Arrows\37-approve-checked-simple.svg
+.\lordicon\Arrows\751-share.svg
+.\lordicon\Art\186-puzzle.svg
+.\lordicon\Art\35-edit.svg
+.\lordicon\Art\43-music-note.svg
+.\lordicon\Art\499-clipboard-film-clap.svg
+.\lordicon\Art\54-photo-picturelandscape-gallery.svg
+.\lordicon\Art\62-film.svg
+.\lordicon\Astrology & Space\1821-night-sky-moon-stars.svg
+.\lordicon\Astrology & Space\1865-shooting-stars.svg
+.\lordicon\Astrology & Space\2239-star-of-bethlehem.svg
+.\lordicon\Astrology & Space\27-globe.svg
+.\lordicon\Astrology & Space\45-clock-time.svg
+.\lordicon\Audio\1031-music-album.svg
+.\lordicon\Audio\1039-computer-speakers.svg
+.\lordicon\Audio\1054-amazon-echo-speaker.svg
+.\lordicon\Audio\1093-add-song.svg
+.\lordicon\Audio\1497-treble-clef.svg
+.\lordicon\Audio\1505-radio-walkie-talkie.svg
+.\lordicon\Audio\43-music-note.svg
+.\lordicon\Automotive\1927-food-truck.svg
+.\lordicon\Automotive\1985-police-car.svg
+.\lordicon\Automotive\905-airbag.svg
+.\lordicon\Automotive\917-license-plate.svg
+.\lordicon\Automotive\932-windscreen.svg
+.\lordicon\Automotive\933-ferry.svg
+.\lordicon\Automotive\942-driving-person-sleepy.svg
+.\lordicon\Baby\1270-fetus.svg
+.\lordicon\Baby\1512-mom-feeding-baby.svg
+.\lordicon\Baby\1513-embryo.svg
+.\lordicon\Baby\1545-baby-clothing-bib.svg
+.\lordicon\Beauty & Spa\1558-shaving-foam.svg
+.\lordicon\Beauty & Spa\1561-comb.svg
+.\lordicon\Beauty & Spa\1574-spa-flower.svg
+.\lordicon\Beauty & Spa\1698-sponge.svg
+.\lordicon\Beverage\1486-food-as-resources.svg
+.\lordicon\Beverage\1912-no-alcohol.svg
+.\lordicon\Beverage\1963-yerba-mate-tea.svg
+.\lordicon\Beverage\2237-champagne-flutes.svg
+.\lordicon\Beverage\240-glass-of-wine.svg
+.\lordicon\Beverage\571-black-tea.svg
+.\lordicon\Beverage\590-glass-water.svg
+.\lordicon\Beverage\615-coffee-machine.svg
+.\lordicon\Buildings\1713-downtown.svg
+.\lordicon\Buildings\1976-ruins.svg
+.\lordicon\Buildings\403-museum-authority.svg
+.\lordicon\Business\1021-rules.svg
+.\lordicon\Business\134-target.svg
+.\lordicon\Business\186-puzzle.svg
+.\lordicon\Business\187-suitcase.svg
+.\lordicon\Business\298-coins.svg
+.\lordicon\Business\475-rescue-safety-ring-help.svg
+.\lordicon\Business\648-victory-success.svg
+.\lordicon\Business\943-commodity.svg
+.\lordicon\Business\945-dividends.svg
+.\lordicon\Business\946-equity-security.svg
+.\lordicon\Business\948-stock-share.svg
+.\lordicon\Business\950-attract-customers.svg
+.\lordicon\Business\966-privacy-policy.svg
+.\lordicon\Business\970-video-conference.svg
+.\lordicon\Business\981-consultation.svg
+.\lordicon\Camping\1821-night-sky-moon-stars.svg
+.\lordicon\Camping\1865-shooting-stars.svg
+.\lordicon\Camping\475-rescue-safety-ring-help.svg
+.\lordicon\Charts\153-bar-chart-growth.svg
+.\lordicon\Childhood\1505-radio-walkie-talkie.svg
+.\lordicon\Childhood\1531-rocking-horse.svg
+.\lordicon\Childhood\1704-flower-doodle.svg
+.\lordicon\Childhood\186-puzzle.svg
+.\lordicon\Childhood\1872-small-cute-monster.svg
+.\lordicon\Childhood\2230-candy-cane.svg
+.\lordicon\Childhood\2231-christmas-stocks.svg
+.\lordicon\Childhood\2238-santa.svg
+.\lordicon\Childhood\412-gift.svg
+.\lordicon\Childhood\453-savings-pig.svg
+.\lordicon\Childhood\901-tricycle.svg
+.\lordicon\City\1226-wheelchair.svg
+.\lordicon\City\1459-old-shop.svg
+.\lordicon\City\1574-spa-flower.svg
+.\lordicon\City\1639-automatic-stairs.svg
+.\lordicon\City\1683-recycling.svg
+.\lordicon\City\1713-downtown.svg
+.\lordicon\City\1725-exit-sign.svg
+.\lordicon\City\1738-no-entry.svg
+.\lordicon\City\1876-cinema.svg
+.\lordicon\City\1933-vote-elections.svg
+.\lordicon\City\1985-police-car.svg
+.\lordicon\City\403-museum-authority.svg
+.\lordicon\City\488-bicycle.svg
+.\lordicon\City\514-pool.svg
+.\lordicon\City\656-person-sign-protest.svg
+.\lordicon\City\667-biking.svg
+.\lordicon\City\678-fireman.svg
+.\lordicon\City\884-electric-scooter.svg
+.\lordicon\City\926-roadblock.svg
+.\lordicon\Clothes\1545-baby-clothing-bib.svg
+.\lordicon\Clothes\187-suitcase.svg
+.\lordicon\Clothes\2231-christmas-stocks.svg
+.\lordicon\Communication\1140-error.svg
+.\lordicon\Communication\1141-email.svg
+.\lordicon\Communication\13-pizza.svg
+.\lordicon\Communication\140-help-center.svg
+.\lordicon\Communication\177-envelope-mail-send.svg
+.\lordicon\Communication\41-quotation-mark-second.svg
+.\lordicon\Communication\47-chat.svg
+.\lordicon\Communication\57-server.svg
+.\lordicon\Communication\59-email.svg
+.\lordicon\Communication\76-newspaper.svg
+.\lordicon\Communication\970-video-conference.svg
+.\lordicon\Communication\981-consultation.svg
+.\lordicon\Computer Hardware\1039-computer-speakers.svg
+.\lordicon\Computer Hardware\1054-amazon-echo-speaker.svg
+.\lordicon\Computer Hardware\1284-one-1-key.svg
+.\lordicon\Computer Hardware\1285-two-2-key.svg
+.\lordicon\Computer Hardware\1286-three-3-key.svg
+.\lordicon\Computer Hardware\1300-enter-key.svg
+.\lordicon\Computer Hardware\1315-computer-mouse.svg
+.\lordicon\Computer Hardware\466-bluetooth.svg
+.\lordicon\Computer Hardware\57-server.svg
+.\lordicon\Computer Hardware\726-wireless-connection.svg
+.\lordicon\Culture\1068-international-music.svg
+.\lordicon\Culture\1445-greek-helmet.svg
+.\lordicon\Culture\1466-archer.svg
+.\lordicon\Culture\1761-olympic-rings.svg
+.\lordicon\Culture\1876-cinema.svg
+.\lordicon\Culture\1933-vote-elections.svg
+.\lordicon\Culture\1957-maneki-cat.svg
+.\lordicon\Culture\1961-gong.svg
+.\lordicon\Culture\1971-da-vinci.svg
+.\lordicon\Culture\1976-ruins.svg
+.\lordicon\Culture\1992-the-pope.svg
+.\lordicon\Culture\2022-krakow-city.svg
+.\lordicon\Culture\2229-candle.svg
+.\lordicon\Culture\403-museum-authority.svg
+.\lordicon\Culture\43-music-note.svg
+.\lordicon\Culture\499-clipboard-film-clap.svg
+.\lordicon\Culture\784-trumpet.svg
+.\lordicon\Data Storage\57-server.svg
+.\lordicon\Delivery\107-box-package-open.svg
+.\lordicon\Delivery\412-gift.svg
+.\lordicon\Design\1378-3-d.svg
+.\lordicon\Design\1383-sphere.svg
+.\lordicon\Design\1384-page-view-array.svg
+.\lordicon\Design\1387-page-view-column.svg
+.\lordicon\Design\1388-page-view-quilt.svg
+.\lordicon\Design\1391-paper-waste.svg
+.\lordicon\Design\1414-circle.svg
+.\lordicon\Design\1415-elipse.svg
+.\lordicon\Design\1416-triangle.svg
+.\lordicon\Design\1417-rounded-square.svg
+.\lordicon\Design\1418-rhombus.svg
+.\lordicon\Design\1419-polyline.svg
+.\lordicon\Design\1420-square.svg
+.\lordicon\Design\1421-rectangle.svg
+.\lordicon\Design\1422-polygon.svg
+.\lordicon\Design\35-edit.svg
+.\lordicon\Design\54-photo-picturelandscape-gallery.svg
+.\lordicon\Device\102-wifi.svg
+.\lordicon\Device\1039-computer-speakers.svg
+.\lordicon\Device\1054-amazon-echo-speaker.svg
+.\lordicon\Device\1461-joistick-alt.svg
+.\lordicon\Device\15-ratio.svg
+.\lordicon\Device\236-alarm-clock.svg
+.\lordicon\Device\33-speed.svg
+.\lordicon\Device\45-clock-time.svg
+.\lordicon\Device\471-ebook-reader.svg
+.\lordicon\Device\57-server.svg
+.\lordicon\Device\62-film.svg
+.\lordicon\Device\67-clock.svg
+.\lordicon\Device\7-alarm.svg
+.\lordicon\Ecology\1391-paper-waste.svg
+.\lordicon\Ecology\1683-recycling.svg
+.\lordicon\Ecology\1908-iceberg.svg
+.\lordicon\Ecology\1993-melting-glacier-global-warming.svg
+.\lordicon\Ecology\450-solar-panel.svg
+.\lordicon\Ecology\488-bicycle.svg
+.\lordicon\Ecology\884-electric-scooter.svg
+.\lordicon\Ecommerce\107-box-package-open.svg
+.\lordicon\Ecommerce\1360-grocery-shelf.svg
+.\lordicon\Ecommerce\139-basket.svg
+.\lordicon\Ecommerce\146-basket-trolley-shopping-card.svg
+.\lordicon\Ecommerce\298-coins.svg
+.\lordicon\Ecommerce\412-gift.svg
+.\lordicon\Ecommerce\950-attract-customers.svg
+.\lordicon\Editing\185-trash-bin.svg
+.\lordicon\Editing\245-edit-document.svg
+.\lordicon\Editing\35-edit.svg
+.\lordicon\Editing\41-quotation-mark-second.svg
+.\lordicon\Editing\49-plus-circle.svg
+.\lordicon\Editing\50-minus-circle.svg
+.\lordicon\Editing\54-photo-picturelandscape-gallery.svg
+.\lordicon\Editor\15-ratio.svg
+.\lordicon\Editor\30-anchor.svg
+.\lordicon\Editor\35-edit.svg
+.\lordicon\Editor\36-expand.svg
+.\lordicon\Editor\37-approve-checked-simple.svg
+.\lordicon\Editor\39-trash.svg
+.\lordicon\Education\1021-rules.svg
+.\lordicon\Education\1414-circle.svg
+.\lordicon\Education\1415-elipse.svg
+.\lordicon\Education\1416-triangle.svg
+.\lordicon\Education\1417-rounded-square.svg
+.\lordicon\Education\1418-rhombus.svg
+.\lordicon\Education\1419-polyline.svg
+.\lordicon\Education\1420-square.svg
+.\lordicon\Education\1421-rectangle.svg
+.\lordicon\Education\1422-polygon.svg
+.\lordicon\Education\186-puzzle.svg
+.\lordicon\Education\1971-da-vinci.svg
+.\lordicon\Education\27-globe.svg
+.\lordicon\Education\35-edit.svg
+.\lordicon\Education\41-quotation-mark-second.svg
+.\lordicon\Education\43-music-note.svg
+.\lordicon\Education\471-ebook-reader.svg
+.\lordicon\Education\54-photo-picturelandscape-gallery.svg
+.\lordicon\Education\56-document.svg
+.\lordicon\Education\680-it-developer.svg
+.\lordicon\Education\981-consultation.svg
+.\lordicon\Emoji\1072-reggae-music.svg
+.\lordicon\Emoji\1103-confetti.svg
+.\lordicon\Emoji\1122-thumb-down.svg
+.\lordicon\Emoji\16-avatar-woman-nodding.svg
+.\lordicon\Emoji\17-avatar-man-nodding.svg
+.\lordicon\Emoji\20-love-heart.svg
+.\lordicon\Emoji\21-avatar.svg
+.\lordicon\Emoji\261-emoji-smile.svg
+.\lordicon\Emoji\262-emoji-wow.svg
+.\lordicon\Emoji\268-avatar-man.svg
+.\lordicon\Emoji\269-avatar-female.svg
+.\lordicon\Emoji\678-fireman.svg
+.\lordicon\Emoji\680-it-developer.svg
+.\lordicon\Energy\450-solar-panel.svg
+.\lordicon\Entertainment\1031-music-album.svg
+.\lordicon\Entertainment\1062-disco-ball.svg
+.\lordicon\Entertainment\1068-international-music.svg
+.\lordicon\Entertainment\1092-applause.svg
+.\lordicon\Entertainment\1103-confetti.svg
+.\lordicon\Entertainment\1461-joistick-alt.svg
+.\lordicon\Entertainment\186-puzzle.svg
+.\lordicon\Entertainment\240-glass-of-wine.svg
+.\lordicon\Entertainment\403-museum-authority.svg
+.\lordicon\Entertainment\430-rugby-ball.svg
+.\lordicon\Entertainment\471-ebook-reader.svg
+.\lordicon\Entertainment\784-trumpet.svg
+.\lordicon\Family\1512-mom-feeding-baby.svg
+.\lordicon\Family\1522-housekeeper.svg
+.\lordicon\Family\20-love-heart.svg
+.\lordicon\File\14-article.svg
+.\lordicon\File\141-history.svg
+.\lordicon\File\16-avatar-woman-nodding.svg
+.\lordicon\File\17-avatar-man-nodding.svg
+.\lordicon\File\20-love-heart.svg
+.\lordicon\File\39-trash.svg
+.\lordicon\File\42-search.svg
+.\lordicon\File\49-plus-circle.svg
+.\lordicon\File\50-minus-circle.svg
+.\lordicon\File\70-ticket.svg
+.\lordicon\Files\245-edit-document.svg
+.\lordicon\Files\41-quotation-mark-second.svg
+.\lordicon\Files\56-document.svg
+.\lordicon\Files\966-privacy-policy.svg
+.\lordicon\Film\1872-small-cute-monster.svg
+.\lordicon\Film\1876-cinema.svg
+.\lordicon\Film\499-clipboard-film-clap.svg
+.\lordicon\Film\62-film.svg
+.\lordicon\Finance\10-analytics.svg
+.\lordicon\Finance\146-basket-trolley-shopping-card.svg
+.\lordicon\Finance\159-trending-down.svg
+.\lordicon\Finance\16-avatar-woman-nodding.svg
+.\lordicon\Finance\160-trenging-up.svg
+.\lordicon\Finance\161-trending-flat.svg
+.\lordicon\Finance\17-avatar-man-nodding.svg
+.\lordicon\Finance\197-calculate.svg
+.\lordicon\Finance\298-coins.svg
+.\lordicon\Finance\38-credit-card.svg
+.\lordicon\Finance\403-museum-authority.svg
+.\lordicon\Finance\43-music-note.svg
+.\lordicon\Finance\453-savings-pig.svg
+.\lordicon\Finance\943-commodity.svg
+.\lordicon\Finance\945-dividends.svg
+.\lordicon\Finance\946-equity-security.svg
+.\lordicon\Finance\948-stock-share.svg
+.\lordicon\Food\1146-turkey.svg
+.\lordicon\Food\13-pizza.svg
+.\lordicon\Food\1360-grocery-shelf.svg
+.\lordicon\Food\1468-morale.svg
+.\lordicon\Food\1486-food-as-resources.svg
+.\lordicon\Food\1600-knife.svg
+.\lordicon\Food\1841-algae.svg
+.\lordicon\Food\1927-food-truck.svg
+.\lordicon\Food\526-paper-bag-vegetables.svg
+.\lordicon\Food\543-apple.svg
+.\lordicon\Food\563-sausage.svg
+.\lordicon\Food\567-french-fries-chips.svg
+.\lordicon\Food\585-herbs.svg
+.\lordicon\Gaming\1445-greek-helmet.svg
+.\lordicon\Gaming\1448-three-leaf-clover.svg
+.\lordicon\Gaming\1456-horseshoe.svg
+.\lordicon\Gaming\1459-old-shop.svg
+.\lordicon\Gaming\1461-joistick-alt.svg
+.\lordicon\Gaming\1466-archer.svg
+.\lordicon\Gaming\1468-morale.svg
+.\lordicon\Gaming\1486-food-as-resources.svg
+.\lordicon\Gaming\1505-radio-walkie-talkie.svg
+.\lordicon\Gaming\186-puzzle.svg
+.\lordicon\Gaming\43-music-note.svg
+.\lordicon\Garden\1148-bee.svg
+.\lordicon\Garden\1822-dandelion.svg
+.\lordicon\Garden\1832-sunflower.svg
+.\lordicon\Garden\1845-rose.svg
+.\lordicon\Garden\1855-palmtree.svg
+.\lordicon\Hands\1092-applause.svg
+.\lordicon\Hands\1122-thumb-down.svg
+.\lordicon\Hands\1676-telephone-call-hand.svg
+.\lordicon\Hands\500-fingerprint-security.svg
+.\lordicon\Hands\530-hand-washing-step-1.svg
+.\lordicon\Hands\531-hand-washing-step-2.svg
+.\lordicon\Hands\532-hand-washing-step-3.svg
+.\lordicon\Hands\533-hand-washing-step-4.svg
+.\lordicon\Hands\534-hand-washing-5-step.svg
+.\lordicon\Hands\535-hand-washing-step-6.svg
+.\lordicon\Hands\536-hand-washing-step-7.svg
+.\lordicon\Hands\537-hand-washing-step-8.svg
+.\lordicon\Hands\538-hand-washing-step-9.svg
+.\lordicon\Hands\539-hand-washing-step-10.svg
+.\lordicon\Hands\541-hand-washing-step-12.svg
+.\lordicon\Health\1258-medical-mask.svg
+.\lordicon\Health\1272-cough.svg
+.\lordicon\Health\1275-fever.svg
+.\lordicon\Health\1277-antibacterial-spray-disinfection.svg
+.\lordicon\Health\646-walking-walkcycle-person.svg
+.\lordicon\Health\69-eye.svg
+.\lordicon\Holidays\1103-confetti.svg
+.\lordicon\Holidays\2229-candle.svg
+.\lordicon\Holidays\2230-candy-cane.svg
+.\lordicon\Holidays\2231-christmas-stocks.svg
+.\lordicon\Holidays\2233-elf.svg
+.\lordicon\Holidays\2237-champagne-flutes.svg
+.\lordicon\Holidays\2238-santa.svg
+.\lordicon\Holidays\2239-star-of-bethlehem.svg
+.\lordicon\Holidays\412-gift.svg
+.\lordicon\Hospital\1221-test-tubes.svg
+.\lordicon\Hospital\1226-wheelchair.svg
+.\lordicon\Hospital\1249-heart-beat.svg
+.\lordicon\Hospital\1258-medical-mask.svg
+.\lordicon\Hospital\1270-fetus.svg
+.\lordicon\Hospital\1272-cough.svg
+.\lordicon\Hospital\1275-fever.svg
+.\lordicon\Hospital\1277-antibacterial-spray-disinfection.svg
+.\lordicon\Hospital\1513-embryo.svg
+.\lordicon\Hospital\69-eye.svg
+.\lordicon\Household\1039-computer-speakers.svg
+.\lordicon\Household\1054-amazon-echo-speaker.svg
+.\lordicon\Household\107-box-package-open.svg
+.\lordicon\Household\1160-cat-head.svg
+.\lordicon\Household\1193-pets.svg
+.\lordicon\Household\1468-morale.svg
+.\lordicon\Household\1522-housekeeper.svg
+.\lordicon\Household\1600-knife.svg
+.\lordicon\Household\1608-sofa.svg
+.\lordicon\Household\1639-automatic-stairs.svg
+.\lordicon\Household\1662-lava-lamp.svg
+.\lordicon\Household\1698-sponge.svg
+.\lordicon\Household\1732-potted-flower-plant.svg
+.\lordicon\Household\1740-window-shutters.svg
+.\lordicon\Household\185-trash-bin.svg
+.\lordicon\Household\187-suitcase.svg
+.\lordicon\Household\2229-candle.svg
+.\lordicon\Household\236-alarm-clock.svg
+.\lordicon\Household\409-tool.svg
+.\lordicon\Household\448-paws-animal-morph.svg
+.\lordicon\Household\45-clock-time.svg
+.\lordicon\Household\450-solar-panel.svg
+.\lordicon\Household\453-savings-pig.svg
+.\lordicon\Household\514-pool.svg
+.\lordicon\Household\54-photo-picturelandscape-gallery.svg
+.\lordicon\Household\615-coffee-machine.svg
+.\lordicon\Hygiene\1258-medical-mask.svg
+.\lordicon\Hygiene\1277-antibacterial-spray-disinfection.svg
+.\lordicon\Hygiene\185-trash-bin.svg
+.\lordicon\Hygiene\530-hand-washing-step-1.svg
+.\lordicon\Hygiene\531-hand-washing-step-2.svg
+.\lordicon\Hygiene\532-hand-washing-step-3.svg
+.\lordicon\Hygiene\533-hand-washing-step-4.svg
+.\lordicon\Hygiene\534-hand-washing-5-step.svg
+.\lordicon\Hygiene\535-hand-washing-step-6.svg
+.\lordicon\Hygiene\536-hand-washing-step-7.svg
+.\lordicon\Hygiene\537-hand-washing-step-8.svg
+.\lordicon\Hygiene\538-hand-washing-step-9.svg
+.\lordicon\Hygiene\539-hand-washing-step-10.svg
+.\lordicon\Hygiene\541-hand-washing-step-12.svg
+.\lordicon\Industry\107-box-package-open.svg
+.\lordicon\Industry\1356-wooden-box.svg
+.\lordicon\Industry\1360-grocery-shelf.svg
+.\lordicon\Industry\1366-trolley.svg
+.\lordicon\Industry\1468-morale.svg
+.\lordicon\Industry\1683-recycling.svg
+.\lordicon\Industry\1688-scuba-tank.svg
+.\lordicon\Industry\1725-exit-sign.svg
+.\lordicon\Industry\1738-no-entry.svg
+.\lordicon\Industry\409-tool.svg
+.\lordicon\Industry\450-solar-panel.svg
+.\lordicon\Industry\475-rescue-safety-ring-help.svg
+.\lordicon\Industry\877-wharf.svg
+.\lordicon\Industry\933-ferry.svg
+.\lordicon\Industry\943-commodity.svg
+.\lordicon\Interface\10-analytics.svg
+.\lordicon\Interface\102-wifi.svg
+.\lordicon\Interface\141-history.svg
+.\lordicon\Interface\15-ratio.svg
+.\lordicon\Interface\20-love-heart.svg
+.\lordicon\Interface\21-avatar.svg
+.\lordicon\Interface\22-build.svg
+.\lordicon\Interface\24-view-1.svg
+.\lordicon\Interface\26-play.svg
+.\lordicon\Interface\29-cross.svg
+.\lordicon\Interface\31-check.svg
+.\lordicon\Interface\33-speed.svg
+.\lordicon\Interface\39-trash.svg
+.\lordicon\Interface\40-add-card.svg
+.\lordicon\Interface\41-quotation-mark-second.svg
+.\lordicon\Interface\42-search.svg
+.\lordicon\Interface\45-clock-time.svg
+.\lordicon\Interface\46-notification-bell.svg
+.\lordicon\Interface\47-chat.svg
+.\lordicon\Interface\48-favorite-heart.svg
+.\lordicon\Interface\50-minus-circle.svg
+.\lordicon\Interface\59-email.svg
+.\lordicon\Interface\64-wifi.svg
+.\lordicon\Interface\67-clock.svg
+.\lordicon\Interface\77-pause.svg
+.\lordicon\Interface\8-account.svg
+.\lordicon\Loader Spinners\1121-iota-internet-of-things.svg
+.\lordicon\Loader Spinners\333-loader-4.svg
+.\lordicon\Media\13-pizza.svg
+.\lordicon\Media\14-article.svg
+.\lordicon\Media\140-help-center.svg
+.\lordicon\Media\141-history.svg
+.\lordicon\Media\142-http.svg
+.\lordicon\Media\199-attribution.svg
+.\lordicon\Media\26-play.svg
+.\lordicon\Media\30-anchor.svg
+.\lordicon\Media\34-code.svg
+.\lordicon\Media\40-add-card.svg
+.\lordicon\Media\42-search.svg
+.\lordicon\Media\45-clock-time.svg
+.\lordicon\Media\76-newspaper.svg
+.\lordicon\Media\77-pause.svg
+.\lordicon\Media Controls\49-plus-circle.svg
+.\lordicon\Media Controls\50-minus-circle.svg
+.\lordicon\Metropolis\2019-katowice-city.svg
+.\lordicon\Metropolis\2020-wroclaw-city.svg
+.\lordicon\Metropolis\2022-krakow-city.svg
+.\lordicon\Metropolis\2025-lodz-city.svg
+.\lordicon\Metropolis\2026-gdansk-city.svg
+.\lordicon\Military\134-target.svg
+.\lordicon\Military\1445-greek-helmet.svg
+.\lordicon\Military\1466-archer.svg
+.\lordicon\Military\1505-radio-walkie-talkie.svg
+.\lordicon\Multimedia\1039-computer-speakers.svg
+.\lordicon\Multimedia\1054-amazon-echo-speaker.svg
+.\lordicon\Multimedia\259-share-arrow.svg
+.\lordicon\Multimedia\43-music-note.svg
+.\lordicon\Multimedia\471-ebook-reader.svg
+.\lordicon\Multimedia\62-film.svg
+.\lordicon\Multimedia\742-multimedia-code-1.svg
+.\lordicon\Multimedia\751-share.svg
+.\lordicon\Multimedia\970-video-conference.svg
+.\lordicon\Music\1031-music-album.svg
+.\lordicon\Music\1062-disco-ball.svg
+.\lordicon\Music\1068-international-music.svg
+.\lordicon\Music\1072-reggae-music.svg
+.\lordicon\Music\1092-applause.svg
+.\lordicon\Music\1093-add-song.svg
+.\lordicon\Music\43-music-note.svg
+.\lordicon\Music\784-trumpet.svg
+.\lordicon\Nature\1448-three-leaf-clover.svg
+.\lordicon\Nature\1704-flower-doodle.svg
+.\lordicon\Nature\1732-potted-flower-plant.svg
+.\lordicon\Nature\1822-dandelion.svg
+.\lordicon\Nature\1832-sunflower.svg
+.\lordicon\Nature\1841-algae.svg
+.\lordicon\Nature\1855-palmtree.svg
+.\lordicon\Nature\1908-iceberg.svg
+.\lordicon\Nature\1993-melting-glacier-global-warming.svg
+.\lordicon\Nature\448-paws-animal-morph.svg
+.\lordicon\Navigation\41-quotation-mark-second.svg
+.\lordicon\Network\27-globe.svg
+.\lordicon\Network\466-bluetooth.svg
+.\lordicon\Network\57-server.svg
+.\lordicon\Network\64-wifi.svg
+.\lordicon\Network\726-wireless-connection.svg
+.\lordicon\Office\1021-rules.svg
+.\lordicon\Office\13-pizza.svg
+.\lordicon\Office\1391-paper-waste.svg
+.\lordicon\Office\1608-sofa.svg
+.\lordicon\Office\1639-automatic-stairs.svg
+.\lordicon\Office\1725-exit-sign.svg
+.\lordicon\Office\1738-no-entry.svg
+.\lordicon\Office\236-alarm-clock.svg
+.\lordicon\Office\35-edit.svg
+.\lordicon\Office\45-clock-time.svg
+.\lordicon\Office\54-photo-picturelandscape-gallery.svg
+.\lordicon\Office\56-document.svg
+.\lordicon\Office\57-server.svg
+.\lordicon\Office\615-coffee-machine.svg
+.\lordicon\Office\64-wifi.svg
+.\lordicon\Office\680-it-developer.svg
+.\lordicon\Office\981-consultation.svg
+.\lordicon\People\1072-reggae-music.svg
+.\lordicon\People\1092-applause.svg
+.\lordicon\People\1270-fetus.svg
+.\lordicon\People\1272-cough.svg
+.\lordicon\People\1512-mom-feeding-baby.svg
+.\lordicon\People\1522-housekeeper.svg
+.\lordicon\People\16-avatar-woman-nodding.svg
+.\lordicon\People\17-avatar-man-nodding.svg
+.\lordicon\People\1764-pushups.svg
+.\lordicon\People\1771-ski-simulator.svg
+.\lordicon\People\1808-skateboarding.svg
+.\lordicon\People\1812-plank.svg
+.\lordicon\People\1992-the-pope.svg
+.\lordicon\People\21-avatar.svg
+.\lordicon\People\2233-elf.svg
+.\lordicon\People\2238-santa.svg
+.\lordicon\People\268-avatar-man.svg
+.\lordicon\People\269-avatar-female.svg
+.\lordicon\People\646-walking-walkcycle-person.svg
+.\lordicon\People\648-victory-success.svg
+.\lordicon\People\656-person-sign-protest.svg
+.\lordicon\People\663-swimming.svg
+.\lordicon\People\667-biking.svg
+.\lordicon\People\678-fireman.svg
+.\lordicon\People\680-it-developer.svg
+.\lordicon\People\69-eye.svg
+.\lordicon\People\942-driving-person-sleepy.svg
+.\lordicon\People\950-attract-customers.svg
+.\lordicon\People\970-video-conference.svg
+.\lordicon\People\981-consultation.svg
+.\lordicon\Places\3-disabled.svg
+.\lordicon\Places\4-account.svg
+.\lordicon\Places\41-quotation-mark-second.svg
+.\lordicon\Plants\1448-three-leaf-clover.svg
+.\lordicon\Plants\1704-flower-doodle.svg
+.\lordicon\Plants\1732-potted-flower-plant.svg
+.\lordicon\Plants\1822-dandelion.svg
+.\lordicon\Plants\1832-sunflower.svg
+.\lordicon\Plants\1841-algae.svg
+.\lordicon\Plants\1845-rose.svg
+.\lordicon\Plants\1855-palmtree.svg
+.\lordicon\Plants\526-paper-bag-vegetables.svg
+.\lordicon\Plants\585-herbs.svg
+.\lordicon\Popular\1103-confetti.svg
+.\lordicon\Popular\1122-thumb-down.svg
+.\lordicon\Popular\1258-medical-mask.svg
+.\lordicon\Popular\134-target.svg
+.\lordicon\Popular\146-basket-trolley-shopping-card.svg
+.\lordicon\Popular\153-bar-chart-growth.svg
+.\lordicon\Popular\17-avatar-man-nodding.svg
+.\lordicon\Popular\177-envelope-mail-send.svg
+.\lordicon\Popular\20-love-heart.svg
+.\lordicon\Popular\21-avatar.svg
+.\lordicon\Popular\212-arrow-1-rounded.svg
+.\lordicon\Popular\237-star-rating-morph.svg
+.\lordicon\Popular\268-avatar-man.svg
+.\lordicon\Popular\27-globe.svg
+.\lordicon\Popular\35-edit.svg
+.\lordicon\Popular\409-tool.svg
+.\lordicon\Popular\412-gift.svg
+.\lordicon\Popular\45-clock-time.svg
+.\lordicon\Popular\500-fingerprint-security.svg
+.\lordicon\Popular\56-document.svg
+.\lordicon\Popular\62-film.svg
+.\lordicon\Popular\69-eye.svg
+.\lordicon\Popular\981-consultation.svg
+.\lordicon\Programming\1121-iota-internet-of-things.svg
+.\lordicon\Programming\1319-php-code-language.svg
+.\lordicon\Programming\1320-json.svg
+.\lordicon\Programming\1321-html-5-code-language.svg
+.\lordicon\Programming\1322-python-code-language.svg
+.\lordicon\Programming\1323-java-code-language.svg
+.\lordicon\Programming\1324-c-code-language.svg
+.\lordicon\Programming\1325-code-fork.svg
+.\lordicon\Programming\1326-command-window-line.svg
+.\lordicon\Programming\1327-api-symbol.svg
+.\lordicon\Programming\1330-rest-api.svg
+.\lordicon\Programming\1331-repository.svg
+.\lordicon\Programming\1335-qr-code.svg
+.\lordicon\Programming\742-multimedia-code-1.svg
+.\lordicon\Recently Added\2019-katowice-city.svg
+.\lordicon\Recently Added\2020-wroclaw-city.svg
+.\lordicon\Recently Added\2022-krakow-city.svg
+.\lordicon\Recently Added\2025-lodz-city.svg
+.\lordicon\Recently Added\2026-gdansk-city.svg
+.\lordicon\Religion\2239-star-of-bethlehem.svg
+.\lordicon\Restrictions\1021-rules.svg
+.\lordicon\Restrictions\1910-no-beverages.svg
+.\lordicon\Restrictions\1912-no-alcohol.svg
+.\lordicon\Science\1221-test-tubes.svg
+.\lordicon\Science\1513-embryo.svg
+.\lordicon\Science\1865-shooting-stars.svg
+.\lordicon\Science\27-globe.svg
+.\lordicon\Scroll Down\389-scroll-down-1-auto.svg
+.\lordicon\Scroll Down\390-scroll-down-2-auto.svg
+.\lordicon\Security\500-fingerprint-security.svg
+.\lordicon\Security\946-equity-security.svg
+.\lordicon\Security\966-privacy-policy.svg
+.\lordicon\Shopping\139-basket.svg
+.\lordicon\Shopping\1459-old-shop.svg
+.\lordicon\Shopping\146-basket-trolley-shopping-card.svg
+.\lordicon\Shopping\1639-automatic-stairs.svg
+.\lordicon\Shopping\950-attract-customers.svg
+.\lordicon\Social\117-bolt.svg
+.\lordicon\Social\134-target.svg
+.\lordicon\Social\146-basket-trolley-shopping-card.svg
+.\lordicon\Social\156-thumbs-up-down.svg
+.\lordicon\Social\157-swipe.svg
+.\lordicon\Social\178-work.svg
+.\lordicon\Social\197-calculate.svg
+.\lordicon\Social\199-attribution.svg
+.\lordicon\Social\2-accessibility.svg
+.\lordicon\Social\21-avatar.svg
+.\lordicon\Social\3-disabled.svg
+.\lordicon\Social\48-favorite-heart.svg
+.\lordicon\Social\62-film.svg
+.\lordicon\Social\70-ticket.svg
+.\lordicon\Social\8-account.svg
+.\lordicon\Social\93-pizza-slice.svg
+.\lordicon\Spooky\1872-small-cute-monster.svg
+.\lordicon\Sports\134-target.svg
+.\lordicon\Sports\1688-scuba-tank.svg
+.\lordicon\Sports\1761-olympic-rings.svg
+.\lordicon\Sports\1764-pushups.svg
+.\lordicon\Sports\1771-ski-simulator.svg
+.\lordicon\Sports\1780-medal-first-place.svg
+.\lordicon\Sports\1789-swimmer-cap.svg
+.\lordicon\Sports\1808-skateboarding.svg
+.\lordicon\Sports\1812-plank.svg
+.\lordicon\Sports\1910-no-beverages.svg
+.\lordicon\Sports\430-rugby-ball.svg
+.\lordicon\Sports\488-bicycle.svg
+.\lordicon\Sports\514-pool.svg
+.\lordicon\Sports\646-walking-walkcycle-person.svg
+.\lordicon\Sports\663-swimming.svg
+.\lordicon\Sports\667-biking.svg
+.\lordicon\Statistics\153-bar-chart-growth.svg
+.\lordicon\Summer\1448-three-leaf-clover.svg
+.\lordicon\Summer\1688-scuba-tank.svg
+.\lordicon\Summer\1821-night-sky-moon-stars.svg
+.\lordicon\Summer\1855-palmtree.svg
+.\lordicon\Summer\1865-shooting-stars.svg
+.\lordicon\Summer\475-rescue-safety-ring-help.svg
+.\lordicon\Summer\488-bicycle.svg
+.\lordicon\Summer\514-pool.svg
+.\lordicon\Time & Date\236-alarm-clock.svg
+.\lordicon\Time & Date\27-globe.svg
+.\lordicon\Time & Date\45-clock-time.svg
+.\lordicon\Toggle\26-play.svg
+.\lordicon\Toggle\29-cross.svg
+.\lordicon\Toggle\31-check.svg
+.\lordicon\Toggle\39-trash.svg
+.\lordicon\Toggle\64-wifi.svg
+.\lordicon\Toggle\77-pause.svg
+.\lordicon\Toggles\315-menu-2-morph.svg
+.\lordicon\Toggles\316-menu-3-morph.svg
+.\lordicon\Toggles\317-menu-4-morph.svg
+.\lordicon\Toggles\318-menu-5-morph.svg
+.\lordicon\Toggles\319-menu-6-morph.svg
+.\lordicon\Tools\1600-knife.svg
+.\lordicon\Tools\409-tool.svg
+.\lordicon\Toys\1531-rocking-horse.svg
+.\lordicon\Toys\1872-small-cute-monster.svg
+.\lordicon\Toys\412-gift.svg
+.\lordicon\Toys\901-tricycle.svg
+.\lordicon\Transport\107-box-package-open.svg
+.\lordicon\Transport\1226-wheelchair.svg
+.\lordicon\Transport\1356-wooden-box.svg
+.\lordicon\Transport\1366-trolley.svg
+.\lordicon\Transport\1927-food-truck.svg
+.\lordicon\Transport\1985-police-car.svg
+.\lordicon\Transport\488-bicycle.svg
+.\lordicon\Transport\667-biking.svg
+.\lordicon\Transport\877-wharf.svg
+.\lordicon\Transport\884-electric-scooter.svg
+.\lordicon\Transport\901-tricycle.svg
+.\lordicon\Transport\905-airbag.svg
+.\lordicon\Transport\917-license-plate.svg
+.\lordicon\Transport\926-roadblock.svg
+.\lordicon\Transport\932-windscreen.svg
+.\lordicon\Transport\933-ferry.svg
+.\lordicon\Transport\942-driving-person-sleepy.svg
+.\lordicon\Travel\1855-palmtree.svg
+.\lordicon\Travel\187-suitcase.svg
+.\lordicon\Travel\2022-krakow-city.svg
+.\lordicon\Travel\27-globe.svg
+.\lordicon\Travel\981-consultation.svg
+.\lordicon\User Interface\1093-add-song.svg
+.\lordicon\User Interface\1122-thumb-down.svg
+.\lordicon\User Interface\1140-error.svg
+.\lordicon\User Interface\1141-email.svg
+.\lordicon\User Interface\1335-qr-code.svg
+.\lordicon\User Interface\1384-page-view-array.svg
+.\lordicon\User Interface\1387-page-view-column.svg
+.\lordicon\User Interface\1388-page-view-quilt.svg
+.\lordicon\User Interface\16-avatar-woman-nodding.svg
+.\lordicon\User Interface\17-avatar-man-nodding.svg
+.\lordicon\User Interface\177-envelope-mail-send.svg
+.\lordicon\User Interface\185-trash-bin.svg
+.\lordicon\User Interface\20-love-heart.svg
+.\lordicon\User Interface\21-avatar.svg
+.\lordicon\User Interface\237-star-rating-morph.svg
+.\lordicon\User Interface\245-edit-document.svg
+.\lordicon\User Interface\259-share-arrow.svg
+.\lordicon\User Interface\268-avatar-man.svg
+.\lordicon\User Interface\269-avatar-female.svg
+.\lordicon\User Interface\27-globe.svg
+.\lordicon\User Interface\35-edit.svg
+.\lordicon\User Interface\37-approve-checked-simple.svg
+.\lordicon\User Interface\400-bookmark-morph.svg
+.\lordicon\User Interface\45-clock-time.svg
+.\lordicon\User Interface\466-bluetooth.svg
+.\lordicon\User Interface\475-rescue-safety-ring-help.svg
+.\lordicon\User Interface\49-plus-circle.svg
+.\lordicon\User Interface\50-minus-circle.svg
+.\lordicon\User Interface\500-fingerprint-security.svg
+.\lordicon\User Interface\54-photo-picturelandscape-gallery.svg
+.\lordicon\User Interface\56-document.svg
+.\lordicon\User Interface\62-film.svg
+.\lordicon\User Interface\64-wifi.svg
+.\lordicon\User Interface\680-it-developer.svg
+.\lordicon\User Interface\69-eye.svg
+.\lordicon\User Interface\751-share.svg
+.\lordicon\User Interface\970-video-conference.svg
+.\lordicon\Weather\1821-night-sky-moon-stars.svg
+.\lordicon\Weather\1865-shooting-stars.svg

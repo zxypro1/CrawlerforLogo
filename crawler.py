@@ -21,6 +21,12 @@ class Crawler(object):
         self.test_url = 'https://lordicon.com/icons/system/outline?categoryId=143&premium=0'
         self.driver = webdriver.Edge(executable_path='msedgedriver.exe')
         self.downloaded_list = [[], [], []]
+        self.delete_list = [112, 12, 2030, 478, 61, 63, 2023, 2024, 2029, 1167, 1186, 350, 351, 352, 353, 354, 356, 357,
+                            358, 359, 360, 362, 363, 364, 365, 366, 367, 368, 369, 1037, 1595, 1702, 1923, 1934, 1940,
+                            1944, 1947, 1954, 1958, 1984, 482, 486, 290, 501, 798, 955, 1534, 1918, 1920, 1922, 1935,
+                            497, 498, 243, 1305, 1309, 1312, 744, 1788, 1953, 2234, 1736, 1787, 1827, 1838, 1167, 1339,
+                            11, 2235, 860, 1979, 1106, 120, 540, 428, 1614, 1650, 1730, 447, 1337, 438, 105, 331, 332,
+                            334, 18, 188, 1097, 1931, 1807, 1948, 382, 1754, 58, 9, 32, 19, 44, 5, 68, 23, 1, 6]
 
     def get_js(self, script, driver):
         result = driver.execute_script(script)
@@ -63,7 +69,10 @@ class Crawler(object):
             root_dir = '.\\{}'.format(form)
             for parent, _, names in os.walk(root_dir):
                 for name in names:
-                    self.downloaded_list[index].append(int(name.split('-')[0]))
+                    try:
+                        self.downloaded_list[index].append(int(name.split('-')[0]))
+                    except:
+                        self.downloaded_list[index].append(int(name.split('_')[0]))
             index += 1
         print(self.downloaded_list)
 
@@ -109,7 +118,7 @@ class Crawler(object):
                              "'container').getElementsByClassName('icons')[0].children[{}].children[0].getAttribute(" \
                              "'icon')".format(idx)
                         icon_id = int(self.get_js(js, self.driver).split('-')[0])
-                        if (icon_id in self.downloaded_list[i]) or (icon_id <= 500 and (i <= 1)):
+                        if icon_id in self.downloaded_list[i] or icon_id in self.delete_list:
                             continue
                         time.sleep(8)
                         self.close_anti_crawler(self.driver)
@@ -124,10 +133,10 @@ class Crawler(object):
                             time.sleep(1)
                             count += 1
                             print('无响应，重启中：' + str(count))
-                            if count % 20 == 0:
-                                self.restart()
-                                self.driver.close()
-                                break
+                            time.sleep(2)
+                            self.restart()
+                            self.driver.close()
+                            break
 
                         self.close_anti_crawler(self.driver)
                         more.click()
