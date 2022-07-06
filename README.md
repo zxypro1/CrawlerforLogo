@@ -1,2 +1,2 @@
 # CrawlerforLogo
- A small crawler for logo dataset.
+ 一个用于lordicon.com的爬虫。
